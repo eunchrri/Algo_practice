@@ -1,4 +1,4 @@
-package boj_250214;
+package algo_250214;
 
 public class Main_2739_구구단 {
 	/*
